@@ -45,6 +45,7 @@ if (value>0) {
 }
 
 */
+/*
 var a = prompt("Wprowadź zmienną 'a'");
 var h = prompt("Wprowadź zmienną 'h'");
 
@@ -60,8 +61,8 @@ console.log(getTriangleArea(a, h));
 var triangle1Area = console.log(getTriangleArea(10, 6));
 var triangle2Area = console.log(getTriangleArea(1, 2));
 var triangle3Area = console.log(getTriangleArea(2, 2));
-
-/*var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
+*/
+var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
 var maleNames = ['Piotrek', 'Marek', 'Arek', 'Jarek'];
 var allNames = femaleNames.concat(maleNames);
 console.log(allNames);
@@ -74,7 +75,7 @@ if (allNames.indexOf(newName) === -1) {
 } else {
 	console.log("Wprowadź inne imię");
 }
-*/
+
 
 /* var text = "Velociraptor is a genus of herbivorous ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period.";
 console.log(text);
