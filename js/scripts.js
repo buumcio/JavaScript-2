@@ -48,7 +48,6 @@ if (value>0) {
 var a = prompt("Wprowadź zmienną 'a'");
 var h = prompt("Wprowadź zmienną 'h'");
 
-
 	function getTriangleArea(a, h) {
 		if ((a<=0) || (h<=0)) {
 			alert("Nieprawidłowe dane");
